@@ -1,0 +1,9 @@
+<addon id="plugin.video.todopelota" version="1.0.0" name="Todo Pelota" provider-name="TuNombre">
+    <extension point="xbmc.python.pluginsource" library="default.py" />
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+    <description>Accede a la agenda deportiva y eventos en vivo de Todopelota TV.</description>
+    <author>TuNombre</author>
+    <license>MIT</license>
+</addon>
